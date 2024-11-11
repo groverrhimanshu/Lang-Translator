@@ -1,5 +1,6 @@
 # Lang-Translator
 A flexible free translator. With different languages in a simple way using multiple translators. Translate Your Language
+You can translate to any language for free.
 # For windows
 pip install python3 -y
 
